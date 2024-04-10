@@ -1,0 +1,52 @@
+{
+    "1": {
+        "name": "たいあたり",
+        "description": "相手に体当たりをして攻撃する。相手の体力を減らす。",
+        "type": "ノーマル",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35,
+        "priority": 0,
+        "category": "物理",
+        "isTouch": true,
+        
+        "effect":null
+    },
+    "2": {
+        "name": "からてチョップ",
+        "description": "相手にからてチョップをして攻撃する。相手の体力を減らす。",
+        "type": "ノーマル",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 25,
+        "priority": 0,
+        "category": "物理",
+        "isTouch": true,
+        "effect":null
+    },
+    "3": {
+        "name": "かみなり",
+        "description": "かみなりを落として攻撃する。相手の体力を減らす。",
+        "type": "でんき",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10,
+        "priority": 0,
+        "category": "特殊",
+        "isTouch": false,
+        "effect": "相手をまひ状態にすることがある。"
+    },
+    "4": {
+        "name": "かみなりパンチ",
+        "description": "相手にかみなりパンチをして攻撃する。相手の体力を減らす。",
+        "type": "でんき",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15,
+        "priority": 0,
+        "category": "物理",
+        "isTouch": true,
+        "effect": "相手をまひ状態にすることがある。"
+    }
+}
+
