@@ -8,7 +8,7 @@ const Enemy = React.memo(() => {
   const [enemy, setEnemy] = useRecoilState(enemyState);
   const enemyPos = {
     vertical: 'top-10',
-    Horizontal: 'right-0'
+    horizontal: 'right-0'
   };
   // eslint-disable-next-line react/display-name
   return (

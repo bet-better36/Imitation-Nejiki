@@ -1,0 +1,10 @@
+{
+  "player": {
+    "name": "プレイヤー",
+    "image": "player.png"
+  },
+  "enemy": {
+    "name": "敵",
+    "image": "enemy.png"
+  }
+}
